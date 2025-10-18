@@ -1,0 +1,10 @@
+name: push to dockerhub
+on: 
+  push:
+      branch: 
+      -main
+
+jobs:
+  build:
+  
+     
